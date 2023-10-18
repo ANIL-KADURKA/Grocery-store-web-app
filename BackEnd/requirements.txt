@@ -1,0 +1,8 @@
+flask
+flask-sqlalchemy
+flask-security
+flask-restful
+flask-cors
+email-validator
+weasyprint
+celery[redis]
